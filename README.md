@@ -8,7 +8,7 @@ This chatbot combines powerful language modeling with a beautiful, customizable 
 
 ## 💻 Prototype Screenshot
 
-![Prototype UI]("C:\Users\AMIT\Downloads\Personal_Chatbot\Prototype_chatbot.png")
+![Prototype UI](".\Personal_Chatbot\Prototype_chatbot.png")
 
 
 ## 🚀 Features
