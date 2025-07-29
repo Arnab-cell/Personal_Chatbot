@@ -50,6 +50,8 @@ Copy
 Edit
 pip install -r requirements.txt
 
+4. Give your personal YOUR_GROQ_API_KEY;
+
 ini
 Copy
 Edit
