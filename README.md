@@ -6,6 +6,11 @@ This chatbot combines powerful language modeling with a beautiful, customizable 
 
 ---
 
+## 💻 Prototype Screenshot
+
+![Prototype UI]("C:\Users\AMIT\Downloads\Personal_Chatbot\Prototype_chatbot.png")
+
+
 ## 🚀 Features
 
 - 💬 **Chat in Real Time** – AI-powered responses using Groq’s LLaMA3 model.
