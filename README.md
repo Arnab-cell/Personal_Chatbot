@@ -8,7 +8,7 @@ This chatbot combines powerful language modeling with a beautiful, customizable 
 
 ## 💻 Prototype Screenshot
 
-![Prototype UI]("Prototype_chatbot.png")
+![Prototype UI]( Prototype_chatbot.png )
 
 
 ## 🚀 Features
